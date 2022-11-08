@@ -1,0 +1,38 @@
+.bg-container{
+    background-image: url("https://mohammedshehu.com/wp-content/uploads/2021/05/Remote-jobs-1.jpg");
+    height: 100vh;
+    background-size: cover;
+    
+
+}
+.image{
+    height: 10px;
+}
+.main-heading{
+
+    text-align: center;
+    color: white ;
+    padding-top: 150px; 
+    font-size: 120px;;
+    font-weight: bold;
+}
+.findss{
+    text-align: center;
+    color: red; 
+    font-size: 20px; 
+    padding-top: 20px;
+    padding-bottom: 20px;;
+    background-color: white;
+    height: 55px;
+    width: 400px; 
+    margin-left: 550px;; 
+    border-radius: 10px;  
+} 
+.button{
+    background-color: transparent; 
+    border-width: 2px; 
+    border-radius: 10px; 
+    color: white;
+    border-color: white;
+    border-style: solid;
+ }
